@@ -1,13 +1,13 @@
 {
   "main.css": "/moviesblog/static/css/main.2598e3af.chunk.css",
-  "main.js": "/moviesblog/static/js/main.adbc136d.chunk.js",
-  "main.js.map": "/moviesblog/static/js/main.adbc136d.chunk.js.map",
+  "main.js": "/moviesblog/static/js/main.80d02136.chunk.js",
+  "main.js.map": "/moviesblog/static/js/main.80d02136.chunk.js.map",
   "static/js/1.4a34e45d.chunk.js": "/moviesblog/static/js/1.4a34e45d.chunk.js",
   "static/js/1.4a34e45d.chunk.js.map": "/moviesblog/static/js/1.4a34e45d.chunk.js.map",
   "runtime~main.js": "/moviesblog/static/js/runtime~main.82eefba0.js",
   "runtime~main.js.map": "/moviesblog/static/js/runtime~main.82eefba0.js.map",
   "static/css/main.2598e3af.chunk.css.map": "/moviesblog/static/css/main.2598e3af.chunk.css.map",
   "index.html": "/moviesblog/index.html",
-  "precache-manifest.4d433edae8264ff04df8d03bf74eaa87.js": "/moviesblog/precache-manifest.4d433edae8264ff04df8d03bf74eaa87.js",
+  "precache-manifest.30b2f69de0886c1ca810877901f3dbda.js": "/moviesblog/precache-manifest.30b2f69de0886c1ca810877901f3dbda.js",
   "service-worker.js": "/moviesblog/service-worker.js"
 }
